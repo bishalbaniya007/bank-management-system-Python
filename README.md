@@ -1,10 +1,10 @@
-#Bank Management System (Python CLI)
+Bank Management System (Python CLI)
 
 The Bank Management System is a command-line interface (CLI) application built in Python.
 It allows users to create bank accounts, log in securely, and perform basic banking operations like checking balance, depositing, and withdrawing funds.
 Account data is stored persistently in a local file (accounts.txt) to maintain records between sessions.
 
-##Features
+Features
 
 - Create Account: Users can create a new bank account with a unique account number, 4-digit PIN, and initial balance.
 
@@ -18,7 +18,7 @@ Account data is stored persistently in a local file (accounts.txt) to maintain r
 
 - Data Persistence: All account information is saved in a file for future use.
 
-##Input Validations:
+Input Validations:
 
 - Account number must be numeric.
 
@@ -30,7 +30,7 @@ Account data is stored persistently in a local file (accounts.txt) to maintain r
 
 - Login allows 3 attempts for correct PIN entry.
 
-##Limitations
+Limitations
 
 - Does not currently support account-to-account transfers.
 

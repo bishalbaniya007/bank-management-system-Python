@@ -1,5 +1,4 @@
-##Bank Management System (Python CLI)
-##Overview
+#Bank Management System (Python CLI)
 
 The Bank Management System is a command-line interface (CLI) application built in Python.
 It allows users to create bank accounts, log in securely, and perform basic banking operations like checking balance, depositing, and withdrawing funds.
